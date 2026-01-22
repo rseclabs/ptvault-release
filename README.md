@@ -1,6 +1,8 @@
 # PTVault - Penetration Testing Evidence Manager
 
-A comprehensive, secure evidence management and reporting platform built specifically for professional penetration testers. ** WARNING: This is Alpha Software in a pre release, incomplete stage.  You use at your own risk.  It is strongly advised that you do not use this in an production manner.
+A comprehensive, secure evidence management and reporting platform built specifically for professional penetration testers. 
+
+** WARNING: ** This is Alpha Software in a pre release, incomplete stage.  You use at your own risk.  It is strongly advised that you do not use this in an production manner. It is for testing purposes ONLY.
 
 <img width="1923" height="1376" alt="image" src="https://github.com/user-attachments/assets/ad47e7fc-2a26-4a9d-a23e-ec03945bbef4" />
 <img width="1914" height="1216" alt="image" src="https://github.com/user-attachments/assets/efc923f8-3b11-4b54-a4ce-54ff4b46ae32" />
